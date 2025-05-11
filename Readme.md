@@ -11,7 +11,11 @@ Salvar e carregar automaticamente
 Esses projetos foram feitos da seguinte forma:
 ------------------------------------------------
 1º utilizei dos programas visual studio code e do proprio git;
+--------------------------------------------------------------
 2º criei uma pasta no qual criei um programa no visual code, criando um readme e o programa em pyhton;
+--------------------------------------------------------------------------------------------------
 3º criei esse repositorio e liguei ele remotamento com o git;
+-------------------------------------------------------------
 4º e coloquei os meus projetos aqui.
+---------------------------------
 
